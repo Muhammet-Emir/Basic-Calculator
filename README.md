@@ -1,3 +1,4 @@
+English | [Turkish](./README-tr_TR.md)
 # Basic-Calculator
 A basic calculator for use in the Python terminal
 ## How Does It Work?
